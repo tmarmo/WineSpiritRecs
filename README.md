@@ -14,3 +14,5 @@ Before running the code, the following libraries must be installed in Python:
 3. seaborn
 4. numpy
 5. wordcloud
+
+The query used for the dataset can be found here: https://drive.google.com/file/d/1jdcK1pByB4ADNSDjXyyJGwvo7uxJEduC/view?usp=sharing
